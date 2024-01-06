@@ -1,4 +1,4 @@
-# This is a simple application I built using the datamuse thesaurus API. The project is coded in React.js using Typescript and custom hooks for rendering a list of possible synonyms. 
+This is a simple application I built using the datamuse thesaurus API. The project is coded in React.js using Typescript and custom hooks for rendering a list of possible synonyms. 
 
 ### `npm start`
 
